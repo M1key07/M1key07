@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @M1key07
-- 👀 I’m interested in programming (obviously), reading (books like the Lord of the Rings, the Last Dragon Chronicles, Eragon, etc), gaming (pc (laptop with an intel igpu for now, I plan to upgrade to an old hp prebuilt with some random 100usd (amd (f*ck nvidia) ) gpu I find this Christmas) various nintendo handheld consoles, and the occasional platformer on my phone), curious about computer hardware as well (as in I want to build a pc and maybe even a home server/nas)
+- 👋 Hi, I’m @M1key07, a cis male ace furry weirdo :3
+- 👀 I’m interested in programming (obviously), reading (books like the Lord of the Rings, the Last Dragon Chronicles, Eragon, etc), gaming (pc (laptop with an intel igpu for now, I plan to upgrade to an old hp prebuilt with some random 100usd (amd (f*ck nvidia) ) gpu I find this Christmas) various nintendo handheld consoles, and the occasional platformer on my phone), curious about computer hardware as well (as in I want to build a pc (right to repair!) and maybe even a home server/nas)
 - 🌱 I’m currently learning ... well I'm in CSP right now, and also Digital Electronics
 - 💞️ I’m looking to collaborate on small python scripts for now (maybe)
 - 📫 How to reach me: m1key_07 on discord, michaelteeple07@outlook.com, m1key_07 on matrix, M1key_07 on gbatemp, etc (if you see a similar username elsewhere feel free to ask, it very well could be me)
